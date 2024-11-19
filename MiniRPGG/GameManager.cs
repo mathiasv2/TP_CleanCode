@@ -7,6 +7,7 @@ namespace MiniRPG
 	{
         static Weapon BFSword = new Weapon("BF SWORD", 200);
         static Armor BrambleVest = new Armor("Bramble vest", 120);
+		static Ennemy Sbire = new Ennemy();
 
         public GameManager()
 		{
@@ -81,7 +82,7 @@ namespace MiniRPG
 				if(ennemy.Healthpoint <= 0)
 				{
 					DisplayMessageAction("The enemy has been defeated, next ennemy incoming");
-					Ennemy.EnnemyLevelUp();
+					Sbire.EnnemyLevelUp();
 
 				}
 			}

@@ -1,4 +1,31 @@
 ﻿<Properties StartupConfiguration="{07C6F771-F832-45D0-B1FE-23E61913DA08}|Default">
+  <MonoDevelop.Ide.Workbench ActiveDocument="MiniRPGG/Hero.cs">
+    <Files>
+      <File FileName="MiniRPGG/Program.cs" />
+      <File FileName="MiniRPGG/GameManager.cs" />
+      <File FileName="MiniRPGG/Hero.cs" Line="30" Column="10" />
+      <File FileName="MiniRPGG/Armor.cs" />
+      <File FileName="MiniRPGG/Ennemy.cs" />
+      <File FileName="MiniRPGG/Item.cs" />
+    </Files>
+    <Pads>
+      <Pad Id="ProjectPad">
+        <State name="__root__">
+          <Node name="MiniRPGG" expanded="True" selected="True">
+            <Node name="MiniRPGG" expanded="True" />
+          </Node>
+        </State>
+      </Pad>
+      <Pad Id="MonoDevelop.Debugger.WatchPad">
+        <State />
+      </Pad>
+    </Pads>
+  </MonoDevelop.Ide.Workbench>
+  <MonoDevelop.Ide.Workspace ActiveConfiguration="Debug" />
+  <MonoDevelop.Ide.DebuggingService.PinnedWatches />
   <MultiItemStartupConfigurations />
-  <MonoDevelop.Ide.ItemProperties.MiniRPGG FirstBuild="True" />
+  <MonoDevelop.Ide.DebuggingService.Breakpoints>
+    <BreakpointStore />
+  </MonoDevelop.Ide.DebuggingService.Breakpoints>
+  <MonoDevelop.Ide.ItemProperties.MiniRPGG PreferredExecutionTarget="MonoDevelop.Default" />
 </Properties>
