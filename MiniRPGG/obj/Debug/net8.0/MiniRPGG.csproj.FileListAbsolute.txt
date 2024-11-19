@@ -1,0 +1,14 @@
+/Users/mathias/Projects/MiniRPGG/MiniRPGG/bin/Debug/net8.0/MiniRPGG
+/Users/mathias/Projects/MiniRPGG/MiniRPGG/bin/Debug/net8.0/MiniRPGG.deps.json
+/Users/mathias/Projects/MiniRPGG/MiniRPGG/bin/Debug/net8.0/MiniRPGG.runtimeconfig.json
+/Users/mathias/Projects/MiniRPGG/MiniRPGG/bin/Debug/net8.0/MiniRPGG.dll
+/Users/mathias/Projects/MiniRPGG/MiniRPGG/bin/Debug/net8.0/MiniRPGG.pdb
+/Users/mathias/Projects/MiniRPGG/MiniRPGG/obj/Debug/net8.0/MiniRPGG.GeneratedMSBuildEditorConfig.editorconfig
+/Users/mathias/Projects/MiniRPGG/MiniRPGG/obj/Debug/net8.0/MiniRPGG.AssemblyInfoInputs.cache
+/Users/mathias/Projects/MiniRPGG/MiniRPGG/obj/Debug/net8.0/MiniRPGG.AssemblyInfo.cs
+/Users/mathias/Projects/MiniRPGG/MiniRPGG/obj/Debug/net8.0/MiniRPGG.csproj.CoreCompileInputs.cache
+/Users/mathias/Projects/MiniRPGG/MiniRPGG/obj/Debug/net8.0/MiniRPGG.dll
+/Users/mathias/Projects/MiniRPGG/MiniRPGG/obj/Debug/net8.0/refint/MiniRPGG.dll
+/Users/mathias/Projects/MiniRPGG/MiniRPGG/obj/Debug/net8.0/MiniRPGG.pdb
+/Users/mathias/Projects/MiniRPGG/MiniRPGG/obj/Debug/net8.0/MiniRPGG.genruntimeconfig.cache
+/Users/mathias/Projects/MiniRPGG/MiniRPGG/obj/Debug/net8.0/ref/MiniRPGG.dll
